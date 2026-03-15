@@ -1,0 +1,12 @@
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\bin\Debug\net10.0\UniversidadITM.Domain.deps.json
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\bin\Debug\net10.0\UniversidadITM.Domain.dll
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\bin\Debug\net10.0\UniversidadITM.Domain.pdb
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.AssemblyInfoInputs.cache
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.AssemblyInfo.cs
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.sourcelink.json
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.dll
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\refint\UniversidadITM.Domain.dll
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\UniversidadITM.Domain.pdb
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Domain\obj\Debug\net10.0\ref\UniversidadITM.Domain.dll

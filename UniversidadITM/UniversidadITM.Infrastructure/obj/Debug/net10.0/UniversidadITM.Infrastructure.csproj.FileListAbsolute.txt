@@ -1,0 +1,6 @@
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Infrastructure\obj\Debug\net10.0\UniversidadITM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Infrastructure\obj\Debug\net10.0\UniversidadITM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Infrastructure\obj\Debug\net10.0\UniversidadITM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Infrastructure\obj\Debug\net10.0\UniversidadITM.Infrastructure.AssemblyInfo.cs
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Infrastructure\obj\Debug\net10.0\UniversidadITM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\karih\Videos\580304006-9\UniversidadITM\UniversidadITM.Infrastructure\obj\Debug\net10.0\UniversidadITM.Infrastructure.sourcelink.json

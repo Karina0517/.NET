@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UniversidadITM.Domain/1.0.0": {
+        "runtime": {
+          "UniversidadITM.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversidadITM.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
