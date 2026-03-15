@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="UniversidadITM.API\UniversidadITM.API.csproj" />
+  <Project Path="UniversidadITM.Domain\UniversidadITM.Domain.csproj" />
+  <Project Path="UniversidadITM.Infrastructure\UniversidadITM.Infrastructure.csproj" />
 </Solution>
