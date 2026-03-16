@@ -8,12 +8,19 @@ Se ha implementado el ciclo completo para la entidad **Profesor**: Controladores
 ## Evidencias de Entrega
 
 ### 1. Tabla creada en SQL Server
-
+(https://res.cloudinary.com/dogmjkjex/image/upload/v1773636472/Captura_de_pantalla_2026-03-15_233900_ljhfri.png)
 
 ### 2. Ejecución exitosa del POST en Swagger
-*(Reemplazar esta línea con la captura de pantalla de Swagger, mostrando la respuesta 200 OK y el DTO insertado)*
+(https://res.cloudinary.com/dogmjkjex/image/upload/v1773636466/Captura_de_pantalla_2026-03-15_232731_iqbtj7.png)
+
+https://res.cloudinary.com/dogmjkjex/image/upload/v1773636466/Captura_de_pantalla_2026-03-15_232826_hjcaln.png
 
 ### 3. Respuesta del Middleware (Prueba de Robustez)
-*(Reemplazar esta línea con la captura de pantalla del request donde `Nombre` = "Error" para provocar la validación y capturar el 500 JSON estandarizado)*
+https://res.cloudinary.com/dogmjkjex/image/upload/v1773636467/Captura_de_pantalla_2026-03-15_232957_ihdxgu.png
 
-*(Reemplazar esta línea con la captura del error 400 JSON por intentar crear con especialidad vacía, o email duplicado)*
+https://res.cloudinary.com/dogmjkjex/image/upload/v1773636467/Captura_de_pantalla_2026-03-15_233012_dspepz.png
+
+
+https://res.cloudinary.com/dogmjkjex/image/upload/v1773636469/Captura_de_pantalla_2026-03-15_233049_t30p5u.png
+
+https://res.cloudinary.com/dogmjkjex/image/upload/v1773636469/Captura_de_pantalla_2026-03-15_233105_wcedsa.png
