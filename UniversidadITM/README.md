@@ -8,7 +8,7 @@ Se ha implementado el ciclo completo para la entidad **Profesor**: Controladores
 ## Evidencias de Entrega
 
 ### 1. Tabla creada en SQL Server
-*(Reemplazar esta línea con la captura de pantalla de SQL Server)*
+
 
 ### 2. Ejecución exitosa del POST en Swagger
 *(Reemplazar esta línea con la captura de pantalla de Swagger, mostrando la respuesta 200 OK y el DTO insertado)*
