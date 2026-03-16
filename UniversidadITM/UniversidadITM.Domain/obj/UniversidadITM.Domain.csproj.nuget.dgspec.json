@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {}
+    "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
+    "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
         "projectName": "UniversidadITM.Domain",
-        "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
+        "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
         "packagesPath": "C:\\Users\\karih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\obj\\",
+        "outputPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj": {}
+    "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj": {
+    "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj",
+        "projectUniqueName": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj",
         "projectName": "UniversidadITM.API",
-        "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj",
+        "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.API\\UniversidadITM.API.csproj",
         "packagesPath": "C:\\Users\\karih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.API\\obj\\",
+        "outputPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
-                "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj"
+              "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
+                "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj"
               },
-              "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj"
+              "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj"
               }
             }
           }
@@ -59,11 +59,25 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[16.1.1, )"
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.5, )"
             }
           },
           "imports": [
@@ -503,14 +517,14 @@
         }
       }
     },
-    "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
+    "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
         "projectName": "UniversidadITM.Domain",
-        "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
+        "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj",
         "packagesPath": "C:\\Users\\karih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\obj\\",
+        "outputPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -842,14 +856,14 @@
         }
       }
     },
-    "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj": {
+    "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj",
         "projectName": "UniversidadITM.Infrastructure",
-        "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Infrastructure\\UniversidadITM.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\karih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -870,8 +884,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
-                "projectPath": "C:\\Users\\karih\\Videos\\580304006-9\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj"
+              "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj": {
+                "projectPath": "C:\\Users\\karih\\source\\repos\\.NET\\UniversidadITM\\UniversidadITM.Domain\\UniversidadITM.Domain.csproj"
               }
             }
           }
@@ -892,6 +906,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

@@ -1,0 +1,33 @@
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.sln.ide
+_ReSharper*/
+*.DotSettings.user
+.idea/
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+*.log
+*.mdf
+*.ldf
+publish/
+*.DS_Store
+# NuGet packages folder (if you use a global packages folder)
+# ~/.nuget/packages/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Local tool manifest (if you intentionally keep it, remove this line)
+# .config/dotnet-tools.json
